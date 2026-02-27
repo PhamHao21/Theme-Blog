@@ -38,7 +38,7 @@ Hãy đảm bảo bạn đã tạo menu và gán vào vị trí "Main Menu" tron
 * Phát hành phiên bản đầu tiên của theme.  
 
 == Ghi nhận ==
-* Được xây dựng bởi Phạm Gia Hào và Phạm Phú Trọng cho môn học mã nguồn mở.  
+* Được xây dựng bởi Phạm Gia Hào cho môn học mã nguồn mở.  
 * Sử dụng các API của WordPress (WP_Query, wp_nav_menu) cho các tính năng chính.  
 * Lấy cảm hứng từ các theme blog khác nhau.  
 
@@ -46,4 +46,4 @@ Hãy đảm bảo bạn đã tạo menu và gán vào vị trí "Main Menu" tron
 Theme này được cấp phép dưới GNU General Public License v2 hoặc mới hơn. Tất cả mã nguồn, hình ảnh và tài nguyên đều tương thích với GPL.
 
 == Dành cho môn học == 
-Theme này được phát triển như một phần của dự án môn học mã nguồn mở bởi Phạm Gia Hào và Phạm Phú Trọng. Theme thể hiện việc sử dụng hệ thống template của WordPress, tích hợp AJAX và tùy chỉnh giao diện. Chi tiết hơn xin xem trong báo cáo đính kèm.
+Theme này được phát triển như một phần của dự án môn học mã nguồn mở bởi Phạm Gia Hào. Theme thể hiện việc sử dụng hệ thống template của WordPress, tích hợp AJAX và tùy chỉnh giao diện. Chi tiết hơn xin xem trong báo cáo đính kèm.
