@@ -1,49 +1,51 @@
 === ThemeBlog === 
-Contributors: Phạm Gia Hào, Phạm Phú Trọng
-Tags: blog, theme, wordpress, tối giản
+Author: Pham Gia Hao
+Tags: blog, theme, wordpress, minimalist
 Requires at least: 5.0
 Tested up to: 6.5
 Stable tag: 1.0
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-ThemeBlog là một theme WordPress đơn giản và hiện đại được thiết kế cho mục đích viết blog, với giao diện tối giản, hỗ trợ chế độ tối và trang tìm kiếm linh động. Theme được xây dựng để phục vụ môn học mã nguồn mở và không dùng cho mục đích thương mại.
+ThemeBlog is a simple and modern WordPress theme designed for blogging, featuring a minimalist interface, dark mode support, and a dynamic search page. This theme was built as an Open Source project for academic purposes and is not intended for commercial use.
 
-== Mô tả ==
-ThemeBlog là một theme WordPress nhẹ được phát triển như một dự án cho môn học mã nguồn mở. Theme tập trung vào sự đơn giản và tính năng, với các đặc điểm sau:  
-- Trang chủ tùy chỉnh với banner, ô tìm kiếm và danh sách bài viết mới nhất.  
-- Trang tìm kiếm riêng để tìm kiếm blog.  
-- Chế độ tối giúp giảm mỏi mắt.  
-- Thanh menu đa dạng và tích hợp fallback nếu không gán menu chính.  
-- Liên kết mạng xã hội ở footer (Facebook, Instagram, YouTube, X).  
+== Description ==
+ThemeBlog is a lightweight WordPress theme developed as an Open Source course project. The theme focuses on simplicity and functionality, with the following features:
+- Custom Homepage with a banner, search bar, and latest posts list.
+- Dedicated Search Page for blog discovery.
+- Dark Mode to reduce eye strain.
+- Versatile navigation menu with a fallback system if no main menu is assigned.
+- Social media links in the footer (Facebook, Instagram, YouTube, X).
 
-Theme này không nhằm mục đích thương mại và có thể còn một số thiếu sót, nhưng là một dự án học tập để tìm hiểu về phát triển WordPress.
+This theme is not for commercial purposes and may have minor limitations, as it serves as a learning project for WordPress development.
 
-== Hướng dẫn cài đặt ==
-1. Tải theme dưới dạng file `.zip`.  
-2. Vào dashboard WordPress, chọn Giao diện > Thêm giao diện > Tải giao diện lên > Chọn file.  
-3. Tải file `.zip` lên và nhấn Cài đặt ngay.  
-4. Kích hoạt theme.  
-5. Vào Giao diện > Menu, tạo một menu và gán vào vị trí "Main Menu" để menu điều hướng hiển thị đúng.  
-6. Tạo một trang tĩnh và đặt làm trang chủ trong Cài đặt > Đọc để chạy đúng template.  
+== Installation ==
+1. Download the theme as a `.zip` file.
+2. Go to the WordPress dashboard, select Appearance > Themes > Add New > Upload Theme > Choose File.
+3. Upload the `.zip` file and click Install Now.
+4. Activate the theme.
+5. Go to Appearance > Menus, create a menu, and assign it to the "Main Menu" location to display navigation correctly.
+6. Create a static page and set it as the homepage in Settings > Reading for the template to function properly.
 
-= Làm sao để thiết lập trang tìm kiếm? =  
-Tạo một trang (ví dụ: "Tìm kiếm"), sau đó gán template "Search Page" trong trình chỉnh sửa trang(Tùy chỉnh). Ô tìm kiếm ở trang chủ sẽ chuyển hướng đến trang này.  
+== Frequently Asked Questions ==
 
-= Tại sao menu điều hướng không hiển thị? =
-Hãy đảm bảo bạn đã tạo menu và gán vào vị trí "Main Menu" trong Giao diện > Menu. Nếu không gán, menu sẽ hiển thị tất cả các trang dưới dạng fallback.  
+= How to set up the Search Page? = 
+Create a new page (e.g., "Search"), then assign the "Search Page" template in the Page Attributes (Customization) editor. The search bar on the homepage will redirect to this page.
 
-== Nhật ký thay đổi ==
-= 1.0 =  
-* Phát hành phiên bản đầu tiên của theme.  
+= Why is the navigation menu not appearing? =
+Ensure you have created a menu and assigned it to the "Main Menu" position in Appearance > Menus. If unassigned, the menu will display all pages as a fallback.
 
-== Ghi nhận ==
-* Được xây dựng bởi Phạm Gia Hào cho môn học mã nguồn mở.  
-* Sử dụng các API của WordPress (WP_Query, wp_nav_menu) cho các tính năng chính.  
-* Lấy cảm hứng từ các theme blog khác nhau.  
+== Changelog ==
+= 1.0 = 
+* Initial theme release.
 
-== Giấy phép ==
-Theme này được cấp phép dưới GNU General Public License v2 hoặc mới hơn. Tất cả mã nguồn, hình ảnh và tài nguyên đều tương thích với GPL.
+== Credits ==
+* Built by Pham Gia Hao for the Open Source course.
+* Utilizes WordPress APIs (WP_Query, wp_nav_menu) for core features.
+* Inspired by various minimalist blog themes.
 
-== Dành cho môn học == 
-Theme này được phát triển như một phần của dự án môn học mã nguồn mở bởi Phạm Gia Hào. Theme thể hiện việc sử dụng hệ thống template của WordPress, tích hợp AJAX và tùy chỉnh giao diện. Chi tiết hơn xin xem trong báo cáo đính kèm.
+== License ==
+This theme is licensed under the GNU General Public License v2 or later. All source code, images, and resources are GPL-compatible.
+
+== Academic Project Notice == 
+This theme was developed as part of an Open Source course project by Pham Gia Hao. It demonstrates the use of the WordPress template system, AJAX integration, and interface customization. For further details, please refer to the attached report.
